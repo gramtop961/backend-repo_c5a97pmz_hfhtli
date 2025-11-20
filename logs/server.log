@@ -1,0 +1,42 @@
+INFO:     Will watch for changes in these directories: ['/home/workspace']
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [148] using StatReload
+INFO:     Started server process [150]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     172.20.0.1:47204 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47202 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47210 - "GET /api/faqs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47202 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47204 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47210 - "GET /api/faqs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47214 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:47202 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47204 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47210 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:47202 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59142 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59154 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59156 - "GET /api/faqs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59142 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59154 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59156 - "GET /api/faqs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59142 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59154 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59142 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:59154 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60012 - "OPTIONS /api/calc HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60012 - "POST /api/calc HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60012 - "POST /api/calc HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60026 - "POST /api/calc HTTP/1.1" 200 OK
+INFO:     172.20.0.1:60026 - "POST /api/calc HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57618 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57602 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57626 - "GET /api/faqs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57618 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57602 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57626 - "GET /api/faqs HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57618 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57602 - "GET /api/packages HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57626 - "GET /api/services HTTP/1.1" 200 OK
+INFO:     172.20.0.1:57602 - "GET /api/packages HTTP/1.1" 200 OK
